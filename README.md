@@ -13,6 +13,7 @@ The project is designed with the following components:
 - Apache Spark: For data processing with its master and worker nodes.
 - PostgreSQL: Where the processed data will be stored.
 - Docker: To run code on an isolated container with all the necessary dependancies.
+- Deep_translator: A github library to translate Polish to English
 
 
 ### Here is one of the entries in the JSON:
