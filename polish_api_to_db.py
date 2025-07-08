@@ -63,7 +63,7 @@ sdf = spark.createDataFrame(df)
 jdbc_url = "jdbc:postgresql://host.docker.internal:5432/Polish_Tenders"
 connection_properties = {
     "user": "postgres",
-    "password": "!@dEMOrANCH261948",############################
+    "password": "###############",
     "driver": "org.postgresql.Driver"
 }
 
